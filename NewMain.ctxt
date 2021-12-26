@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=NewMain
+comment0.text=\r\n\ To\ change\ this\ template,\ choose\ Tools\ |\ Templates\r\n\ and\ open\ the\ template\ in\ the\ editor.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ ComputeFollow()
+comment3.params=
+comment3.target=void\ ComputeFirst()
+comment4.params=A\ c
+comment4.target=int\ getIndex(char[],\ char)
+comment5.params=c
+comment5.target=int\ isNonTerminal(char)
+comment6.params=c
+comment6.target=int\ isTerminal(char)
+comment7.params=c
+comment7.target=int\ hasEpsilon(char)
+comment8.params=c
+comment8.target=void\ addEpsilon(char)
+numComments=9

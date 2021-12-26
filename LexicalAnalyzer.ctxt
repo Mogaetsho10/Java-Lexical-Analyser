@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LexicalAnalyzer
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=s
+comment2.target=void\ printToken(java.lang.String)
+comment3.params=s
+comment3.target=java.lang.String\ getTokenType(java.lang.String)
+comment4.params=
+comment4.target=void\ initializeTables()
+comment5.params=l\ br
+comment5.target=void\ readIntoList(java.util.List,\ java.io.BufferedReader)
+numComments=6
